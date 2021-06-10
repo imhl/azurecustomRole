@@ -3,7 +3,7 @@
     "roleName": "RH124_CUSTOM_ROLE",
     "description": "This role is for budget control by disallowing instructors to adjust student quota.",
     "assignableScopes": [
-      "/subscriptions/<Your Subscription ID"
+      "/subscriptions/<Your Subscription ID>"
     "permissions": [
       {
         "actions": [
