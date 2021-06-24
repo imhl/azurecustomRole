@@ -1,7 +1,7 @@
 {
   "properties": {
-    "roleName": "RH124_CUSTOM_ROLE",
-    "description": "This role is for budget control by disallowing instructors to adjust student quota.",
+    "roleName": "<Your Role Name>",
+    "description": "This role is for budget control by disallowing instructors to adjust student quotas. It only allows instructor to start and stop student virtual machine to provide assistance.",
     "assignableScopes": [
       "/subscriptions/<subscription ID>"
     ],
